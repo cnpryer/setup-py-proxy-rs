@@ -1,0 +1,8 @@
+[package]
+name = "setup-py-proxy-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = "1.0.96"
+tempfile = "3.5.0"
